@@ -1,8 +1,7 @@
 # Evaluation of Patterned Die-Attach Layer for Stress Reduction in SiC Power Electronics
 
 > **CAx Techniques in Automotive Engineering** · Technische Hochschule Ingolstadt  
-> Adit Raj Venkataraj · Lloyd Alston Dsouza · International Automotive Engineering · July 2025
-
+> [@aditrajv](https://github.com/aditrajv) · [@LloydAlston](https://github.com/LloydAlston) · International Automotive Engineering · July 2025
 ---
 
 ## Overview
