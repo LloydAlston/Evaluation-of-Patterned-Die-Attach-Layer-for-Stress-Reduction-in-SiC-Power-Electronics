@@ -1,0 +1,1 @@
+# Evaluation-of-Patterned-Die-Attach-Layer-for-Stress-Reduction-in-SiC-Power-Electronics
